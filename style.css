@@ -10,7 +10,7 @@
     --slate-500: hsl(216, 15%, 48%);
     --slate-900: hsl(218, 44%, 22%);
 
-    font-size: 0.94rem;
+    font-size: 13px;
 
     --space-xs: 0.75rem;
     --space-sm: 1rem;
@@ -59,6 +59,6 @@ body {
 
 @media screen and (max-width: 375px) {
     :root {
-        font-size: 1rem;
+        font-size: 15px;
     }
 }
