@@ -63,4 +63,4 @@ By using rem for text sizes, width, spaces, paddings, and margins made adjustmen
 
 ## Author
 
-- Frontend Mentor - [@@AJ-Tan](https://www.frontendmentor.io/profile/AJ-Tan)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/AJ-Tan]
